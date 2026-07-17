@@ -1,4 +1,4 @@
-name = "shribots"
+name = "urlpinger"
 main = "pinger.js"
 compatibility_date = "2023-12-01"
 
